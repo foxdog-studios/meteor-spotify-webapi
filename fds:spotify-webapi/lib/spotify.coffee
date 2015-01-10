@@ -1,1 +1,4 @@
-@Spotify = {}
+'use strict'
+
+@Spotify = Spotify = {}
+
